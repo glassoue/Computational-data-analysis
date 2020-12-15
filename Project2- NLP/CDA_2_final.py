@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun May  3 17:03:51 2020
-
-@author: anshul
-"""
-#---------------------------------------------------------------
 
 '''LDA on 2009 data '''
 
